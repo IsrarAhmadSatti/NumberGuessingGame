@@ -1,0 +1,22 @@
+{
+  "name": "isr870-numberguess",
+  "version": "1.0.3",
+  "description": "Number guesiing game using Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "github.com/israrahmadsatti",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "isr870-numberguess": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "node": "^18.20.0"
+  }
+}
